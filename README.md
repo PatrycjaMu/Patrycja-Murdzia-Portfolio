@@ -1,2 +1,1 @@
-# Patrycja-Murdzia-Portfolio
-Software tester portfolio
+# Patrycja-Murdzia-Software tester Portfolio
