@@ -13,7 +13,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
   <strong> Let’s connect on LinkedIn</strong>
 </a>
 
-💼 ## Commercial Testing
+## 💼 Commercial Testing
 **Game Testing**
 - Exploratory and functional testing of mobile games for an external client
 - Analysis of user interface, gameplay logic and application stability
