@@ -28,6 +28,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 
 ## 📝 PROJECTS
 **Web Application Testing – GOIT**
+Project repository
 - Analyzing test documentation, requirements and creating test cases
 - Performing manual testing (functional, regression, and exploratory tests)
 - Reporting bugs using TestRail
