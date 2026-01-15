@@ -49,7 +49,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 [9 months UX Designer Course with UI elements - Infoshare Academy](https://infoshareacademy.com/)<br>
 
 ### APRIL 2023 - AUGUST 2023<br>
-[QUALITY ASSURANCE COURSE - GOIT](https://goit.global/pl/)<br>
+[3 months QUALITY ASSURANCE COURSE - GOIT](https://goit.global/pl/)<br>
 
 
 ## EXERCISES                                                                                                                                                                               
