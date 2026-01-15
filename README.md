@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Software tester Portfolio
 ## TABLE OF CONTENTS                                                                                                                                                                          
-◦ [ABOUT ME](#about_me) ◦ [COMMERCIAL TESTING](#commercial_testing) ◦ [PROJECTS](#projects) ◦ [MY ALL PROJECTS](#myallprojects) ◦ [EXERCISES](#exercises)
+◦ [ABOUT ME](#about_me) ◦ [COMMERCIAL TESTING](#commercial_testing) ◦ [PROJECTS](#projects) ◦ [MY ALL PROJECTS](#myallprojects) ◦ [COURSES](#courses) ◦ [EXERCISES](#exercises)
 ## 🔍 ABOUT ME
 **Hi there** 👋                                                                                                                                                                              
 My name is **Patrycja**, I am an **aspiring Software Tester** who loves making sure software works well and is easy to use. I am learning by working on **practical projects, practicing manual testing, reporting bugs,** and understanding **how software works**. 
@@ -42,8 +42,10 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Preparing test scenarios without test execution (conceptual testing)
                                                                                                                                                                                            
 ## MY ALL PROJECTS                                                                                                                                                                         
-### 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)
-                                                                                                                                                                                           
+### 👉 [See all my projects here](https://github.com/PatrycjaMurdzia/My-all-projects)<br>
+
+## 🎓 COURSES
+
 ## EXERCISES                                                                                                                                                                               
 ### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/Completed-tasks/blob/main/Test%20cases%20tasks/README.md)<br>
 ### ➡️ **BUG REPORT TASKS**<br>
