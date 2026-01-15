@@ -47,7 +47,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 ## 🎓 COURSES<br>
 ### AUGUST 2022 - APRIL 2023<br>
 9 months UX Designer Course with UI elements - Infoshare Academy<br>
-🏆 [Certificate UX Designer]()<br>
+🏆 [Certificate UX Designer](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certyfikat%20UX%20Designer%20infoShare%20Academy.pdf)<br>
 
 ### APRIL 2023 - AUGUST 2023<br>
 [3 months QUALITY ASSURANCE COURSE - GOIT]<br>
