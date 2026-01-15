@@ -26,7 +26,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 - Preparing test cases and documenting bugs with clear reports for the development team
 - Proposing improvement suggestions based on testing results
 
-## 📝 PROJECTS
+## 📝 PROJECTS [See all my projects here]
 **Web Application Testing – GOIT**                                                                                                         
 [Project repository](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course)
 - Analyzing test documentation and requirements
