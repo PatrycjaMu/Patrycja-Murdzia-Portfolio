@@ -47,12 +47,14 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 ## 🎓 COURSES<br>
 ### AUGUST 2022 - APRIL 2023<br>
 9 months UX Designer Course with UI elements - Infoshare Academy<br>
-🏆 [Certificate UX Designer](file:///C:/Users/misie/Desktop/KURS%20UX/Certyfikat%20Bootcamp%20UX%20Designer%20infoShare%20Academy%20P.Ilasz.pdf)<br>
+🏆 [Certificate UX Designer]()<br>
 
 ### APRIL 2023 - AUGUST 2023<br>
-[3 months QUALITY ASSURANCE COURSE - GOIT](https://goit.global/pl/)<br>
+[3 months QUALITY ASSURANCE COURSE - GOIT]<br>
+🏆 [Certificate QA]()<br>
+
 ### MAY 2024<br>
-🏆 [ISTQB Foundation Level Certificate](file:///C:/Users/misie/Desktop/Kurs%20QA/ISTQB%20Certificate.pdf)<br>
+🏆 [ISTQB Foundation Level Certificate]()<br>
 
 ## EXERCISES                                                                                                                                                                               
 ### ➡️ [TEST CASES TASKS](https://github.com/PatrycjaMurdzia/Completed-tasks/blob/main/Test%20cases%20tasks/README.md)<br>
