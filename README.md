@@ -51,7 +51,7 @@ My name is **Patrycja**, I am an **aspiring Software Tester** who loves making s
 
 ### APRIL 2023 - AUGUST 2023<br>
 [3 months QUALITY ASSURANCE COURSE - GOIT]<br>
-🏆 [Certificate QA]()<br>
+🏆 [Certificate QA](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certificate%20QA.pdf)<br>
 
 ### MAY 2024<br>
 🏆 [ISTQB Foundation Level Certificate](https://github.com/PatrycjaMurdzia/Certificates/blob/main/ISTQB%20Certificate.pdf)<br>
