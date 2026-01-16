@@ -97,8 +97,4 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 <img width="1050" height="600" alt="Dziękuję!" src="https://github.com/user-attachments/assets/7d6a262d-e436-441c-ad93-d8c639e5cde2" />
 </a>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-</a>
-</p>
+👆 Kliknij obrazek, aby przejść do mojego profilu Linkedin
