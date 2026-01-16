@@ -93,10 +93,10 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 - MAZE
 - MIRO
 - 
+<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
+<img width="1050" height="600" alt="Dziękuję!" src="https://github.com/user-attachments/assets/7d6a262d-e436-441c-ad93-d8c639e5cde2" />
+</a>
 
-<p align="center">
-<img width="1536" height="1024" alt="Zapraszam do kontaktu" src="https://github.com/user-attachments/assets/626c093a-7625-402a-86c2-b09865c7ab7d" />
-</p>
 <p align="center">
 <a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
