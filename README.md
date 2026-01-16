@@ -58,11 +58,47 @@ Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Pasj
 ### ➡️ **POSTMAN**<br>
 ### ➡️ **JSON - VISUAL STUDIO CODE**<br>
 ### ➡️ **HTML/CSS**<br>
+### ➡️ **JIRA**<br>
+
+## UMIEJĘTNOŚCI TECHNICZNE
+- Język angielski na poziomie komunikatywnym
+- Znajomość procedur testowania
+- Znajomość zagadnień z sylabusa ISTQB
+- Znajomość DevTools
+- Podstawowa znajomość SQL
+- Podstawy testowania REST API
+- Podstawowa znajomość HTML/CSS
+- Znajomość Markdown
+
+## UMIEJĘTNOŚCI MIĘKKIE
+📈 Analiza i rozwiązywanie problemów
+🔎 Precyzja i dbanie o jakość
+💡 Spostrzegawczość i dokładność
+💥 Krytyczne myślenie
+🌱 Gotowość do ciągłego rozwoju
+🙌 Komunikacja i współpraca w zespole
+📚 Umiejętność szybkiego uczenia się nowych narzędzi, systemów i procesów
+📋 Praca w środowisku Scrum
+
+## NARZĘDZIA
+- JIRA
+- TRELLO
+- CONFLUENCE
+- TESTRAIL
+- POSTMAN
+- DBEAVER
+- SCREENPRESSO
+- MOVAVI SCREEN
+- FIGMA
+- MAZE
+- MIRO
+- 
 
 
-
+### Dziękuję za zapoznanie się z moim portfolio.  
+### Jestem otwarta na możliwość zdobywania doświadczenia i dalszego rozwoju w obszarze QA.
+### Zapraszam do kontaktu.
 
 <a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  <strong> Let’s connect on LinkedIn</strong>
 </a>
