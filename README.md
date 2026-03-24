@@ -1,6 +1,6 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
-◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty) ◦ [MOJE WSZYSTKIE PROJEKTY](#mojewszystkieprojekty) ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne) ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
+◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty)  ◦ [KURSY](#kursy) ◦ [ZADANIA PRAKTYCZNE](#zadaniapraktyczne) ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
 ## 🔍 O MNIE 
 ### CZEŚĆ! 👋  
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Interesuję się zapewnianiem jakości i użyteczności aplikacji. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA.
