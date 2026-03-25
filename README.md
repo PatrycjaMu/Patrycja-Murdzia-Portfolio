@@ -82,7 +82,7 @@ Repozytorum projektu
 🌱 Gotowość do ciągłego rozwoju
 🙌 Komunikacja i współpraca w zespole
 📚 Umiejętność szybkiego uczenia się nowych narzędzi, systemów i procesów
-📋 Praca w środowisku Scrum
+📋 Praca w metodologii Scrum
 
 ## NARZĘDZIA
 - JIRA
