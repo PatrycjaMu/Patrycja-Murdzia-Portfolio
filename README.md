@@ -39,8 +39,9 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 ### **DOKUMENTACJA TESTOWA APLIKACJI MOBILNEJ ZAPROJEKTOWANEJ NA KURSIE UX/UI**
 Repozytorum projektu
 - Przygotowanie dokumentacji testowej bazując na prototypie aplikacji mobilnej,
-- Projektowanie scenariuszy testó i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
+- Projektowanie scenariuszy testów i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
 - Przygotowanie raportu błędów.
+- Przygotowanie symulowanych komunikatów testowych API w narzędziu Postman.
   
 ## 🎓 KURSY<br>
 ### SIERPIEŃ 2022 - KWIECIEŃ 2023<br>
