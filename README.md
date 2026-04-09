@@ -1,7 +1,8 @@
 # Patrycja-Murdzia-Tester oprogramowania
 ## SPIS TREŚCI                                                                                                                                                                          
-◦ [O MNIE](#Omnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty)  ◦ [KURSY](#kursy)  ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
+◦ [O MNIE](#o-mnie) ◦ [DOŚWIADCZENIE](#doświadczenie) ◦ [PROJEKTY](#projekty)  ◦ [KURSY](#kursy)  ◦ [UMIEJĘTNOŚCI TECHNICZNE](#umiejętnościtechniczne) ◦ [UMIEJĘTNOŚCI MIĘKKIE](#umiejętnościmiękkie) ◦ [NARZĘDZIA](#narzędzia)
 ## 🔍 O MNIE 
+
 ### CZEŚĆ! 👋  
 Nazywam się **Patrycja** i rozwijam się jako **testerka oprogramowania**. Interesuję się zapewnianiem jakości i użyteczności aplikacji. Zdobywam doświadczenie poprzez testy manualne, dokumentowanie błędów oraz realizację praktycznych projektów QA. 
 
@@ -18,17 +19,20 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 </p>
 
 ## 💼 DOŚWIADCZENIE
+
 ### **TESTOWANIE GIER**
 - Ekploracyjne i funkcjonalne testowanie gier zgodnie z wymaganiami na zlecenie klienta zewnętrznego,
 - Analiza interfejsu, logiki rozgrywki oraz stabilności aplikacji,
 - Tworzenie raportów błędów (kroki odtworzenia, rezultat oczekiwany vs. rzeczywisty, materiał dowodowy).
                                                                              
 ### **TESTOWANIE DEMO APLIKACJI MOBILNEJ**
+
 - Testowanie demo aplikacji mobilnej pod kątem poprawności działania funkcji i użyteczności,
 - Weryfikacja interfejsu, logiki aplikacji i ogólnej stabilności,
 - Dokumentowanie błędów i przygotowywanie sugestii usprawnień dla zespołu deweloperskiego.
 
-## 📝 PROJEKTY               
+## 📝 PROJEKTY       
+
 ### **TESTOWANIE APLIKACJI WEBOWEJ – GOIT**                                                                                                         
 [Repozytorium projektu](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
 - Analiza wymagań i tworzenie przypadków testowych w narzędziu Testrail
@@ -44,6 +48,7 @@ Repozytorum projektu - w trakcie przygotowania
 - Przygotowanie symulowanych komunikatów testowych API w narzędziu Postman.
   
 ## 🎓 KURSY<br>
+
 ### SIERPIEŃ 2022 - KWIECIEŃ 2023<br>
 9-miesięczny kurs UX/UI Design z elementami UI - Infoshare Academy<br>
 🏆 [Certyfikat UX Designer](https://github.com/PatrycjaMurdzia/Certificates/blob/main/Certyfikat%20UX%20Designer%20infoShare%20Academy.pdf)<br>
