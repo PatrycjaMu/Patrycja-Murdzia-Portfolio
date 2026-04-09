@@ -31,7 +31,7 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 ## 📝 PROJEKTY               
 ### **TESTOWANIE APLIKACJI WEBOWEJ – GOIT**                                                                                                         
 [Repozytorium projektu](https://github.com/PatrycjaMurdzia/Final-project-ending-QA-course/blob/main/Projekt%20ko%C5%84cowy%20GOIT.pdf)
-- Analiza wymagań i tworzenie przypadków testowych,
+- Analiza wymagań i tworzenie przypadków testowych w narzędziu Testrail
 - Wykonywanie testów manualnych (testy funkcjonalne, regresyjne, eksploracyjne),
 - Zgłaszanie błędów w narzędziu: TestRail
 - Tworzenie raportów z wyników testów oraz dokumentacji testowej.
@@ -39,7 +39,7 @@ Zapraszam do obejrzenia mojego portfolio 📂 oraz do kontaktu 👉
 ### **DOKUMENTACJA TESTOWA APLIKACJI MOBILNEJ ZAPROJEKTOWANEJ NA KURSIE UX/UI**
 Repozytorum projektu - w trakcie przygotowania
 - Przygotowanie dokumentacji testowej bazując na prototypie aplikacji mobilnej,
-- Projektowanie scenariuszy testów i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności.
+- Projektowanie scenariuszy testów i przypadków testowych bazując na ścieżce użytkownika, makietach, personach i opisie funkcjonalności w narzędziu Testlink.
 - Przygotowanie raportu błędów.
 - Przygotowanie symulowanych komunikatów testowych API w narzędziu Postman.
   
