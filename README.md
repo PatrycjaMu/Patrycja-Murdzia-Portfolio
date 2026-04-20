@@ -8,11 +8,7 @@ My name is **Patrycja** and I"m aspiring **software tester**. I am interested in
 
 **Why testing?** During **UX/UI** course I noticed that I naturally spot errors and recognize problems in the operation of applications. I wanted to learn more about how software is tested in practice, so I started **QA course**. Now I combine knowledge from both fields, which allows me to better assess the usability and quality of applications.
 
-I invite you to see my portfolio 📂 and to contact with me 👉
-<a href="https://www.linkedin.com/in/patrycja-murdzia/" target="_blank">
-<img width="24" height="740" alt="image" src="https://github.com/user-attachments/assets/fa3c94e9-1db9-4375-afdb-6134f27e4223" />
-</a>
-
+I invite you to see my portfolio 📂
 
 <p align="center">
   <img width="500" height="500" alt="obrazek" src="https://github.com/user-attachments/assets/2bc10f57-1e47-4e64-af7a-549eb90641e7" />
